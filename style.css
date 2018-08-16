@@ -1,8 +1,9 @@
 .body{
-    background-color:brown
+    background-color:brown;
+    color: orange;
 }
 
 .h1{
-    background-color:currentColor
+    background-color:currentColor;
 }
 
